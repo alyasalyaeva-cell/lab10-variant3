@@ -1,0 +1,4 @@
+*.exe
+go-service/go-service
+python-service/venv/
+__pycache__/
