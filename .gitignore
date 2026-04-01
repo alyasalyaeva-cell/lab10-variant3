@@ -1,4 +1,14 @@
+# Исполняемые файлы Go
 *.exe
 go-service/go-service
+go-service/main
+
+# Python виртуальное окружение и кэш
 python-service/venv/
 __pycache__/
+*.pyc
+.pytest_cache/
+
+# Логи и временные файлы
+*.log
+.DS_Store
